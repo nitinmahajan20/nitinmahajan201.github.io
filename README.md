@@ -51,7 +51,7 @@ Airbnb, Inc. is an online marketplace for arranging or offering lodging, primari
 
 The infographic is used for external audience for a quick reference, easy to understand visuals and data. The idea behind the present infographic is to project positive message about airlines safety and support this with the data in addition to make it appealing and easily understandable for the public.
 
-The link provided above is the **Blog** describing the infographic. 
+The link provided above is the [**Blog**](https://dsc640mahajan.blogspot.com/2022/05/is-air-travel-safe-data-never-lies.html) describing the infographic. 
 
 ### [Project 8 - Identification of significant variables to drive the price of used cars on eBay](https://github.com/nitinmahajan20/eBay---Used-Car-Project)
 
