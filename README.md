@@ -32,7 +32,18 @@ The infographic is used for external audience for a quick reference, easy to und
 The link provided above is the Blog describing the infographic. 
 
 
-### Project 8 - Identification of significant variables to drive the price of used cars on eBay – A project from the course DSC530 where we did the Identification of significant variables to drive the price of used cars on eBay
+### [Project 8 - Identification of significant variables to drive the price of used cars on eBay](https://github.com/nitinmahajan20/eBay---Used-Car-Project)
+
+Identification of significant variables to drive the price of used cars on eBay
+
+Data Set 
+Used Cars Database from Kaggle
+https://www.kaggle.com/piumiu/used-cars-database-50000-data-points
+
+Question 
+Identification of significant variables to drive the price of used cars on eBay
+
+
 ### Project 9 - world happiness report before the COVID – Project I submitted for the course DSC550, where I explored the happiness data just before the Covid 19. 
 
 
