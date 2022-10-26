@@ -19,6 +19,7 @@ I like photography, scientific writing, traveling, and cooking.
 
 To buy a house is on everyone' checklist. One of the most important factors in buying a house is the income or the money each household have. Besides other factor include location, distance from work, the size of the house etc. Buyer considers these factors while looking for a house in the market. Prediction of the housing value is therefore dependent on these factors. Considering these values as the predictor for the housing prices will also help the government, private companies, insurance companies and real estate agent to invest money accordingly.
 
+
 ![](/images/image1.jpeg)
 
 ### [Project 2 Analyzing the single-cell RNA sequencing (sc-RNASeq) data and assigning cell type identity](https://github.com/nitinmahajan20/scRNA)
