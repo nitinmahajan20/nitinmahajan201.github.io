@@ -47,6 +47,16 @@ Identification of significant variables to drive the price of used cars on eBay
 ### Project 9 - world happiness report before the COVID – Project I submitted for the course DSC550, where I explored the happiness data just before the Covid 19. 
 
 
-### Project 10 - Project 2 From DSC680
+### [Project 10 - St Louis Crime -2017 and 2018](https://github.com/nitinmahajan20/St-Louis-Crime--2017-and-2018)
+
+St Louis Crime -2017 and 2018
+
+This project ran a exploratory data analysis (EDA) using Python for the UCR Part 1 Crime Data available for year 2017 and 2018 by St. Louis County Police Department. 
+
+Data have Crimes include homicide/non-negligent manslaughter, rape, robbery, aggravated assault, burglary, larceny, motor vehicle theft, arson, and human trafficking. 
+
+For further details and to download the data please check the follwoing Link: 
+
+https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes
 
 
