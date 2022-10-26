@@ -1,7 +1,7 @@
-# nitinmahajan20.github.io
+# Nitin Mahajan
+#### Data Science | Machine Learning | Genomics | Medical Writing
 
 ## ABOUT ME
-
 I did my MS in Biosciences and a Ph.D. in Biotechnology, which I earned a decade back. Presently, I am working as a Data Scientist in Genomics and Clinical Science. I want to explore Clinical Data Science in-depth, especially in cancer and cardiology, and apply Machine Learning and Artificial Intelligence for diagnosis and drug discovery. To understand the technical part, I decided to pursue MS in Data Science. 
 I like photography, scientific writing, traveling, and cooking.
 
@@ -15,21 +15,36 @@ I like photography, scientific writing, traveling, and cooking.
 
 ## Projects
 
-### [Project 1 California House Price Prediction](https://github.com/nitinmahajan20/California-House-Price-)
+### [Project 1 Walmart Sales Forecasting](https://github.com/nitinmahajan20/Walmart_Sales_Forecasting)
+
+Background:
+Sales Forecasting is the process of using a company’s sales records over the past few years to predict the short-term or long-term sales performance of the company in the future. Sales forecasting is a globally conducted corporate practice where number of objectives are identified, action-plans are chalked out as well as budgets and resources are allotted to them. Business Sales Executives often find themselves scrambling for answers when it comes to sales forecasting during business reviews. The Sales Forecast Model will help sales executives to find such answers upfront and be ready with numbers and predictions to share with leaderships team.
+
+Problem Statement:
+The goal of this analysis is to predict future sales for the Walmart stores based on the varying features and events.
+• Build the Machine Learning model that would learn from past records, events and predict the accurate outcomes.
+• Predict the Sales forecast for Store and its departments on specific week of the year considering if it is before holiday or after holiday.
+
+Modeling:
+These ML algorithms are used to train the model and evaluated using Weighted mean absolute error. The model with lowest RMSE score and best accuracy score is baselined. Following are the list of ML algorithms are used to train the model –
+
+KNN Regression
+Decision Tree
+Random Forest
+Gradient Boosting Machine (XGBoost Regressor)
+ARIMA - Auto Regressive Integrated Moving Average 
+
+### [Project 2 California House Price Prediction](https://github.com/nitinmahajan20/California-House-Price-)
 
 To buy a house is on everyone' checklist. One of the most important factors in buying a house is the income or the money each household have. Besides other factor include location, distance from work, the size of the house etc. Buyer considers these factors while looking for a house in the market. Prediction of the housing value is therefore dependent on these factors. Considering these values as the predictor for the housing prices will also help the government, private companies, insurance companies and real estate agent to invest money accordingly.
 
 ![](/Images/image1.jpeg)
 
-### [Project 2 Analyzing the single-cell RNA sequencing (sc-RNASeq) data and assigning cell type identity](https://github.com/nitinmahajan20/scRNA)
+### [Project 3 Analyzing the single-cell RNA sequencing (sc-RNASeq) data and assigning cell type identity](https://github.com/nitinmahajan20/scRNA)
 
 Recent advancements in next-generation sequencing (NGS) technologies have made single-cell sequencing an increasingly powerful tool for understanding the biology and cellular function, disease diagnosis, therapy response prediction, and treatment selection. Historically, sequencing technology only enabled an average analysis of a total cell population (Bulk RNA-Seq). In contrast, today, tens of thousands of individual cells from a single tissue sample or patient can be analyzed, giving researchers an unprecedented opportunity to understand individual cell populations and their behavior in diseased tissue. RNA-sequencing (RNA-seq) is a genomic approach for detecting and quantifying messenger RNA (mRNA) molecules in biological samples and is helpful in exploring cellular responses. Majorly there are two RNA sequencing - bulk RNA and single single-cell (scRNASeq). The advantage of scRNASeq is to identify and discover the rare populations and mutations which is helpful to understanding cancer, cardiac disorders. Identifying different and new cell populations is important for developing new therapy and diagnosis. However, analyzing the large volumes of data generated from these experiments requires specialized statistical and computational methods. We will use the data from 10X genomics and identify the different cell type clusters based on the expression of different genes. Cells will be treated as rows (samples), and gene expression will be as columns (Variables). This white paper describes the single cell RNA- Seq data analysis for identifying different cell populations in normal human peripheral blood mononuclear cells (PBMCs) using R based platform Seurat. 
 
 ![](/Images/image2.png)
-
-### [Project 3 Walmart Sales Forecasting](https://github.com/nitinmahajan20/Walmart_Sales_Forecasting)
-
-Walmart, Inc. is part of the retail and wholesale business and is based in Bentonville, Arkansas. The President, Chief Executive Officer, and Director is C. Douglas McMillon. Walmart operates Walmart, Walmart Neighborhood Market, Wal-Mart, Walmart.com, and Sam’s Club. Retail companies commonly have issues with predicting sales accurately throughout the days, months, and years ahead. There are many varying factors that can cause issues with predicting sales such as holidays, economic factors, temperature, fuel prices, Consumer Price Index (CPI), and unemployment. Sales are the lifeblood of business. With an accurate sales forecast in hand, one can plan wisely. If the varying factors are not predicted correctly, then there could be staffing issues at stores, financial implications, and the business could become obsolete if customer satisfaction goes down. 
 
 
 ### [Project 4 Cancer_Detection-A-Machine-Learning-and-Deep-Learning-Approach](https://github.com/nitinmahajan20/Cancer_Detection-A-Machine-Learning-and-Deep-Learning-Approach)
