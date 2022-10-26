@@ -1,6 +1,16 @@
 # nitinmahajan20.github.io
 
-## List of Projects
+# ABOUT ME - I have an MS in Biosciences and a Ph.D. in Biotechnology, which I earned a decade back. Presently, I am working as a Data Scientist in Genomics and Clinical Science. I want to explore Clinical Data Science in-depth, especially in cancer and cardiology, and apply Machine Learning and Artificial Intelligence for diagnosis and drug discovery. To understand the technical part, I decided to pursue MS in Data Science. I like photography, scientific writing, traveling, and cooking.
+
+## [Articles on Medium/Towards Data Science](https://medium.com/@nitinmahajan20)
+
+#### 1. [Machine Learning and Translational Research From Computers to Clinics](https://medium.com/towards-data-science/machine-learning-and-translational-research-d0738ac13d6)
+#### 2. [Natural Language Processing - An Introduction and Preprocessing using NLTK](https://medium.com/towards-data-science/natural-language-processing-a1496244c15c)
+#### 3. [Exploratory Data Analysis - Be friends with your data](https://medium.com/towards-data-science/be-friends-with-your-data-f03f2ecc8dc3)
+#### 4. [Steps to acing the AWS — Certified Cloud Practitioner (CCP) Exam — CLF-C01](https://medium.com/datadriveninvestor/steps-to-acing-the-aws-certified-cloud-practitioner-ccp-exam-clf-c01-ef5ada8f0912)
+
+
+## Projects
 
 ### [Project 1 California House Price Prediction](https://github.com/nitinmahajan20/California-House-Price-)
 
