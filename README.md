@@ -28,10 +28,10 @@ The goal of this analysis is to predict future sales for the Walmart stores base
 Modeling:
 These ML algorithms are used to train the model and evaluated using Weighted mean absolute error. The model with lowest RMSE score and best accuracy score is baselined. Following are the list of ML algorithms are used to train the model –
 
-KNN Regression
-Decision Tree
-Random Forest
-Gradient Boosting Machine (XGBoost Regressor)
+* KNN Regression
+* Decision Tree
+* Random Forest
+* Gradient Boosting Machine (XGBoost Regressor)
 ARIMA - Auto Regressive Integrated Moving Average 
 
 ### [Project 2 California House Price Prediction](https://github.com/nitinmahajan20/California-House-Price-)
