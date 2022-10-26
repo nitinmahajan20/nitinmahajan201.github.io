@@ -1,6 +1,9 @@
 # nitinmahajan20.github.io
 
-# ABOUT ME - I have an MS in Biosciences and a Ph.D. in Biotechnology, which I earned a decade back. Presently, I am working as a Data Scientist in Genomics and Clinical Science. I want to explore Clinical Data Science in-depth, especially in cancer and cardiology, and apply Machine Learning and Artificial Intelligence for diagnosis and drug discovery. To understand the technical part, I decided to pursue MS in Data Science. I like photography, scientific writing, traveling, and cooking.
+## ABOUT ME
+
+I did my MS in Biosciences and a Ph.D. in Biotechnology, which I earned a decade back. Presently, I am working as a Data Scientist in Genomics and Clinical Science. I want to explore Clinical Data Science in-depth, especially in cancer and cardiology, and apply Machine Learning and Artificial Intelligence for diagnosis and drug discovery. To understand the technical part, I decided to pursue MS in Data Science. 
+I like photography, scientific writing, traveling, and cooking.
 
 ## [Articles on Medium/Towards Data Science](https://medium.com/@nitinmahajan20)
 
