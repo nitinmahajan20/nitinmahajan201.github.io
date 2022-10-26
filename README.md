@@ -14,23 +14,31 @@ Recent advancements in next-generation sequencing (NGS) technologies have made s
 
 Walmart, Inc. is part of the retail and wholesale business and is based in Bentonville, Arkansas. The President, Chief Executive Officer, and Director is C. Douglas McMillon. Walmart operates Walmart, Walmart Neighborhood Market, Wal-Mart, Walmart.com, and Sam’s Club. Retail companies commonly have issues with predicting sales accurately throughout the days, months, and years ahead. There are many varying factors that can cause issues with predicting sales such as holidays, economic factors, temperature, fuel prices, Consumer Price Index (CPI), and unemployment. Sales are the lifeblood of business. With an accurate sales forecast in hand, one can plan wisely. If the varying factors are not predicted correctly, then there could be staffing issues at stores, financial implications, and the business could become obsolete if customer satisfaction goes down. 
 
-### [Project 4 - Predicting-Movie-Ratings-from-Reviews](https://github.com/nitinmahajan20/Predicting-Movie-Ratings-from-Reviews-Using-Naive-Bayes)
+### [Project 4 Cancer_Detection-A-Machine-Learning-and-Deep-Learning-Approach](https://github.com/nitinmahajan20/Cancer_Detection-A-Machine-Learning-and-Deep-Learning-Approach)
+
+OVERVIEW
+Cancer is a deadly disease. Researchers and clinicians are trying to find the methods to detect it at early stages. Early diagnosis will play an important role in planning the treatment plan and improvement of the patient’s survival rate. Cancer can be benign (localized) or metastatic (spread to distant organs). One of the most important early diagnosis is detection in lymph nodes to find out whether the cancer has metastasized or not. The method to do this is H & E staining of histological slides of lymph nodes taken from biopsies.
+
+GOAL
+Currently pathologists manually examine the slides in the laboratory and decide if the patient has metastatic cancer or not. Reading the slides and making a report based on human judgement which can be inconsistent and vary from person to person and from day to day. Therefore, developing a computation model to read the slides would provide and can automate the process to give unbiased results.
+
+DATA SOURCE
+The data for this project are downloaded from Kaggle website
+https://www.kaggle.com/c/histopathologic-cancer-detection/data
+
+### [Project 5 - Predicting-Movie-Ratings-from-Reviews](https://github.com/nitinmahajan20/Predicting-Movie-Ratings-from-Reviews-Using-Naive-Bayes)
 
 Naïve Bayes is used to predict the movie rating from reviews. Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.
 
-### [Project 5 -	AirBnb_2019_Austin_Crimes_Map](https://github.com/nitinmahajan20/Austin_AirBnb_Crime_Data_2019)
+### [Project 6 -	AirBnb_2019_Austin_Crimes_Map](https://github.com/nitinmahajan20/Austin_AirBnb_Crime_Data_2019)
 
 Airbnb, Inc. is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate, nor does it host events; it acts as a broker, receiving commissions from each booking. The company is based in San Francisco, California, United States. The project here looks at the various aspects of Airbnb and see what combination of features will most accurately predict the rate per night of a given listing. Here, I have fosused only on the data collected for the city of Austin, Texas in Year 2019 ( till Novenber). In addition to this, this notebook also shows the crimes reported within the areas as included by the Airbnb dataset. Finally, a map is generated using the boundaries and zipcodes for better visulaization. WHENEVER we plan our trip, we always look for few major features - reviews, location, property type, parking, breakfast included, cancellation policy and few other. The analysis in this notebook is done including most of these features.
-
-
-### Project 6 - Building Weather App – We used python and API to build the weather app. 
 
 ### [Project 7 - INFOGRAPHIC - Air Travel – How safe is Air Travel?](https://dsc640mahajan.blogspot.com/2022/05/is-air-travel-safe-data-never-lies.html)
 
 The infographic is used for external audience for a quick reference, easy to understand visuals and data. The idea behind the present infographic is to project positive message about airlines safety and support this with the data in addition to make it appealing and easily understandable for the public.
 
 The link provided above is the Blog describing the infographic. 
-
 
 ### [Project 8 - Identification of significant variables to drive the price of used cars on eBay](https://github.com/nitinmahajan20/eBay---Used-Car-Project)
 
@@ -44,10 +52,7 @@ Question
 Identification of significant variables to drive the price of used cars on eBay
 
 
-### Project 9 - world happiness report before the COVID – Project I submitted for the course DSC550, where I explored the happiness data just before the Covid 19. 
-
-
-### [Project 10 - St Louis Crime -2017 and 2018](https://github.com/nitinmahajan20/St-Louis-Crime--2017-and-2018)
+### [Project 9 - St Louis Crime -2017 and 2018](https://github.com/nitinmahajan20/St-Louis-Crime--2017-and-2018)
 
 St Louis Crime -2017 and 2018
 
@@ -59,4 +64,6 @@ For further details and to download the data please check the follwoing Link:
 
 https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes
 
+### Project 10 - Building Weather App – We used python and API to build the weather app. 
 
+### Project 11 - world happiness report before the COVID – Project I submitted for the course DSC550, where I explored the happiness data just before the Covid 19. 
