@@ -2,7 +2,11 @@
 
 ## List of Projects
 
-### Project 1 - [Walmart Sales Forecasting] (https://github.com/nitinmahajan20/California-House-Price-)
+### Project 1
+
+[Walmart Sales Forecasting] (https://github.com/nitinmahajan20/California-House-Price-)
+
+To buy a house is on everyone' checklist. One of the most important factors in buying a house is the income or the money each household have. Besides other factor include location, distance from work, the size of the house etc. Buyer considers these factors while looking for a house in the market. Prediction of the housing value is therefore dependent on these factors. Considering these values as the predictor for the housing prices will also help the government, private companies, insurance companies and real estate agent to invest money accordingly.
 
 
 ### Project 2 - Building Weather App – We used python and API to build the weather app. 
