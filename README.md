@@ -2,7 +2,7 @@
 
 ## List of Projects
 
-### Project 1 - Walmart Sales Forecasting
+### Project 1 - [Walmart Sales Forecasting] (https://github.com/nitinmahajan20/California-House-Price-)
 
 
 ### Project 2 - Building Weather App – We used python and API to build the weather app. 
