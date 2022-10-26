@@ -77,6 +77,8 @@ For further details and to download the data please check the follwoing Link:
 
 https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes
 
-### Project 10 - Building Weather App – We used python and API to build the weather app. 
+### Project 10 - Building Weather App 
 
-### Project 11 - world happiness report before the COVID – Project I submitted for the course DSC550, where I explored the happiness data just before the Covid 19. 
+In this project, I wrote a python script and used API to create a "weather app". User will enter the zip code and the weather will printed according to the input zipcode. 
+
+
