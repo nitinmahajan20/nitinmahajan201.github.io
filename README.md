@@ -32,7 +32,9 @@ These ML algorithms are used to train the model and evaluated using Weighted mea
 * Decision Tree
 * Random Forest
 * Gradient Boosting Machine (XGBoost Regressor)
-ARIMA - Auto Regressive Integrated Moving Average 
+* ARIMA - Auto Regressive Integrated Moving Average
+
+![](/Images/image3.jpeg)
 
 ### [Project 2 California House Price Prediction](https://github.com/nitinmahajan20/California-House-Price-)
 
