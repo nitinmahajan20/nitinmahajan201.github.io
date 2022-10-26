@@ -77,7 +77,7 @@ For further details and to download the data please check the follwoing Link:
 
 https://data-stlcogis.opendata.arcgis.com/datasets/2017-st-louis-county-police-department-ucr-part-1-crime-data https://data-stlcogis.opendata.arcgis.com/datasets/2018-ucr-part-1-crimes
 
-### Project 10 - Building Weather App 
+### [Project 10 - Building Weather App](https://github.com/nitinmahajan20/Weather_App_Python)
 
 In this project, I wrote a python script and used API to create a "weather app". User will enter the zip code and the weather will printed according to the input zipcode. 
 
